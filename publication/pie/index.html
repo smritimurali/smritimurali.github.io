@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="This paper proposes a new ns-3 model and presents the evaluation results for Proportional Integral controller Enhanced (PIE), a recently designed Active Queue Management (AQM) mechanism to address the problem of bufferbloat. The problem of bufferbloat arises due to the presence of large unmanaged buffers in routers. This leads to high queuing latency and significantly degrades the performance of timesensitive and interactive traffic. AQM mechanisms that aim to address the problem of bufferbloat try to achieve an optimal trade-off between high link utilization and low mean queue length. PIE is a lightweight AQM mechanism that tries to achieve the same. To our knowledge, ns-3 network simulator does not have a model for simulating PIE. Hence, in this paper, we implement a ns-3 model for PIE, and show that the results obtained from it are in line with those obtained from the ns-2 model of PIE, implemented by its authors.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://smritimurali.github.io/publication/pie/">
@@ -248,8 +248,8 @@
   
   <meta property="og:site_name" content="Smriti Murali">
   <meta property="og:url" content="https://smritimurali.github.io/publication/pie/">
-  <meta property="og:title" content="Pie | Smriti Murali">
-  <meta property="og:description" content=""><meta property="og:image" content="https://smritimurali.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="og:title" content="Implementation and Evaluation of Proportional Integral Controller Enhanced (PIE) Algorithm in ns-3 | Smriti Murali">
+  <meta property="og:description" content="This paper proposes a new ns-3 model and presents the evaluation results for Proportional Integral controller Enhanced (PIE), a recently designed Active Queue Management (AQM) mechanism to address the problem of bufferbloat. The problem of bufferbloat arises due to the presence of large unmanaged buffers in routers. This leads to high queuing latency and significantly degrades the performance of timesensitive and interactive traffic. AQM mechanisms that aim to address the problem of bufferbloat try to achieve an optimal trade-off between high link utilization and low mean queue length. PIE is a lightweight AQM mechanism that tries to achieve the same. To our knowledge, ns-3 network simulator does not have a model for simulating PIE. Hence, in this paper, we implement a ns-3 model for PIE, and show that the results obtained from it are in line with those obtained from the ns-2 model of PIE, implemented by its authors."><meta property="og:image" content="https://smritimurali.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://smritimurali.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
@@ -279,7 +279,7 @@
     "@type": "WebPage",
     "@id": "https://smritimurali.github.io/publication/pie/"
   },
-  "headline": "Pie",
+  "headline": "Implementation and Evaluation of Proportional Integral Controller Enhanced (PIE) Algorithm in ns-3",
   
   "datePublished": "2020-07-31T21:35:27-04:00",
   "dateModified": "2020-07-31T21:35:27-04:00",
@@ -297,7 +297,7 @@
       "url": "https://smritimurali.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": ""
+  "description": "This paper proposes a new ns-3 model and presents the evaluation results for Proportional Integral controller Enhanced (PIE), a recently designed Active Queue Management (AQM) mechanism to address the problem of bufferbloat. The problem of bufferbloat arises due to the presence of large unmanaged buffers in routers. This leads to high queuing latency and significantly degrades the performance of timesensitive and interactive traffic. AQM mechanisms that aim to address the problem of bufferbloat try to achieve an optimal trade-off between high link utilization and low mean queue length. PIE is a lightweight AQM mechanism that tries to achieve the same. To our knowledge, ns-3 network simulator does not have a model for simulating PIE. Hence, in this paper, we implement a ns-3 model for PIE, and show that the results obtained from it are in line with those obtained from the ns-2 model of PIE, implemented by its authors."
 }
 </script>
 
@@ -315,7 +315,7 @@
 
 
 
-  <title>Pie | Smriti Murali</title>
+  <title>Implementation and Evaluation of Proportional Integral Controller Enhanced (PIE) Algorithm in ns-3 | Smriti Murali</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -620,7 +620,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Pie</h1>
+  <h1>Implementation and Evaluation of Proportional Integral Controller Enhanced (PIE) Algorithm in ns-3</h1>
 
   
 
@@ -679,6 +679,9 @@
   <div class="article-container">
 
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">This paper proposes a new ns-3 model and presents the evaluation results for Proportional Integral controller Enhanced (PIE), a recently designed Active Queue Management (AQM) mechanism to address the problem of bufferbloat. The problem of bufferbloat arises due to the presence of large unmanaged buffers in routers. This leads to high queuing latency and significantly degrades the performance of timesensitive and interactive traffic. AQM mechanisms that aim to address the problem of bufferbloat try to achieve an optimal trade-off between high link utilization and low mean queue length. PIE is a lightweight AQM mechanism that tries to achieve the same. To our knowledge, ns-3 network simulator does not have a model for simulating PIE. Hence, in this paper, we implement a ns-3 model for PIE, and show that the results obtained from it are in line with those obtained from the ns-2 model of PIE, implemented by its authors.</p>
+    
 
     
 
@@ -708,7 +711,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://smritimurali.github.io/publication/pie/&amp;text=Pie" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://smritimurali.github.io/publication/pie/&amp;text=Implementation%20and%20Evaluation%20of%20Proportional%20Integral%20Controller%20Enhanced%20%28PIE%29%20Algorithm%20in%20ns-3" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -721,7 +724,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://smritimurali.github.io/publication/pie/&amp;t=Pie" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://smritimurali.github.io/publication/pie/&amp;t=Implementation%20and%20Evaluation%20of%20Proportional%20Integral%20Controller%20Enhanced%20%28PIE%29%20Algorithm%20in%20ns-3" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -734,7 +737,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Pie&amp;body=https://smritimurali.github.io/publication/pie/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Implementation%20and%20Evaluation%20of%20Proportional%20Integral%20Controller%20Enhanced%20%28PIE%29%20Algorithm%20in%20ns-3&amp;body=https://smritimurali.github.io/publication/pie/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -747,7 +750,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://smritimurali.github.io/publication/pie/&amp;title=Pie" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://smritimurali.github.io/publication/pie/&amp;title=Implementation%20and%20Evaluation%20of%20Proportional%20Integral%20Controller%20Enhanced%20%28PIE%29%20Algorithm%20in%20ns-3" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -760,7 +763,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Pie%20https://smritimurali.github.io/publication/pie/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Implementation%20and%20Evaluation%20of%20Proportional%20Integral%20Controller%20Enhanced%20%28PIE%29%20Algorithm%20in%20ns-3%20https://smritimurali.github.io/publication/pie/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -773,7 +776,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://smritimurali.github.io/publication/pie/&amp;title=Pie" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://smritimurali.github.io/publication/pie/&amp;title=Implementation%20and%20Evaluation%20of%20Proportional%20Integral%20Controller%20Enhanced%20%28PIE%29%20Algorithm%20in%20ns-3" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="The fast-paced nature of data in Internet of Things (IoT) applications demands that the operating systems be able to efficiently schedule tasks with no delays. Immediate processing of data implies there must not be any violation of hard deadlines. Contiki, an OS designed for IoT, does not however provide full support for real-time operations. The scheduler and timer modules of this OS are studied, and we compare the performances of the native scheduling algorithm and purely pre-emptive scheduling of tasks. Experiments are run on Cooja, a simulator provided for Contiki to run on desktop systems. We also take a look at the scheduling algorithms employed by other operating systems employed for IoT. ">
+  <meta name="description" content="Smriti Murali">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://smritimurali.github.io/publication/jasso/">
+  <link rel="alternate" hreflang="en-us" href="https://smritimurali.github.io/author/v-krishnapriya/">
 
   
 
@@ -226,12 +226,14 @@
   
 
   
+  <link rel="alternate" href="/author/v-krishnapriya/index.xml" type="application/rss+xml" title="Smriti Murali">
+  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://smritimurali.github.io/publication/jasso/">
+  <link rel="canonical" href="https://smritimurali.github.io/author/v-krishnapriya/">
 
   
   
@@ -247,63 +249,17 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Smriti Murali">
-  <meta property="og:url" content="https://smritimurali.github.io/publication/jasso/">
-  <meta property="og:title" content="Real time scheduling in Contiki | Smriti Murali">
-  <meta property="og:description" content="The fast-paced nature of data in Internet of Things (IoT) applications demands that the operating systems be able to efficiently schedule tasks with no delays. Immediate processing of data implies there must not be any violation of hard deadlines. Contiki, an OS designed for IoT, does not however provide full support for real-time operations. The scheduler and timer modules of this OS are studied, and we compare the performances of the native scheduling algorithm and purely pre-emptive scheduling of tasks. Experiments are run on Cooja, a simulator provided for Contiki to run on desktop systems. We also take a look at the scheduling algorithms employed by other operating systems employed for IoT. "><meta property="og:image" content="https://smritimurali.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://smritimurali.github.io/author/v-krishnapriya/">
+  <meta property="og:title" content="V Krishnapriya | Smriti Murali">
+  <meta property="og:description" content="Smriti Murali"><meta property="og:image" content="https://smritimurali.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://smritimurali.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    
-      <meta property="article:published_time" content="2020-07-31T21:35:41-04:00">
-    
-    <meta property="article:modified_time" content="2016-03-04T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2016-03-04T00:00:00&#43;00:00">
   
 
   
 
 
-    
-
-
-
-
-
-
-
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://smritimurali.github.io/publication/jasso/"
-  },
-  "headline": "Real time scheduling in Contiki",
-  
-  "datePublished": "2020-07-31T21:35:41-04:00",
-  "dateModified": "2016-03-04T00:00:00Z",
-  
-  "author": {
-    "@type": "Person",
-    "name": "V Krishnapriya"
-  },
-  
-  "publisher": {
-    "@type": "Organization",
-    "name": "Smriti Murali",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://smritimurali.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
-    }
-  },
-  "description": "The fast-paced nature of data in Internet of Things (IoT) applications demands that the operating systems be able to efficiently schedule tasks with no delays. Immediate processing of data implies there must not be any violation of hard deadlines. Contiki, an OS designed for IoT, does not however provide full support for real-time operations. The scheduler and timer modules of this OS are studied, and we compare the performances of the native scheduling algorithm and purely pre-emptive scheduling of tasks. Experiments are run on Cooja, a simulator provided for Contiki to run on desktop systems. We also take a look at the scheduling algorithms employed by other operating systems employed for IoT. "
-}
-</script>
-
-  
-
-  
 
 
   
@@ -315,7 +271,7 @@
 
 
 
-  <title>Real time scheduling in Contiki | Smriti Murali</title>
+  <title>V Krishnapriya | Smriti Murali</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -599,268 +555,36 @@
 </nav>
 
 
-  <div class="pub">
-
   
 
 
 
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-<div class="article-container pt-3">
-  <h1>Real time scheduling in Contiki</h1>
-
-  
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  
-  <span >V Krishnapriya</span>, <span >Smriti Murali and K Chandrasekaran</span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    March 2016
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+<div class="universal-wrapper pt-3">
+  <h1>V Krishnapriya</h1>
 </div>
 
 
-
-  <div class="article-container">
-
+<section id="profile-page" class="pt-5">
+  <div class="container">
     
-    <h3>Abstract</h3>
-    <p class="pub-abstract">The fast-paced nature of data in Internet of Things (IoT) applications demands that the operating systems be able to efficiently schedule tasks with no delays. Immediate processing of data implies there must not be any violation of hard deadlines. Contiki, an OS designed for IoT, does not however provide full support for real-time operations. The scheduler and timer modules of this OS are studied, and we compare the performances of the native scheduling algorithm and purely pre-emptive scheduling of tasks. Experiments are run on Cooja, a simulator provided for Contiki to run on desktop systems. We also take a look at the scheduling algorithms employed by other operating systems employed for IoT.</p>
     
 
     
-
     
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">5th International Engineering Symposium - IES 2016</div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
+    
+    <div class="article-widget content-widget-hr">
+      <h3>Latest</h3>
+      <ul>
+        
+        <li>
+          <a href="/publication/jasso/">Real time scheduling in Contiki</a>
+        </li>
+        
+      </ul>
     </div>
-    <div class="d-md-none space-below"></div>
     
-
-    <div class="space-below"></div>
-
-    <div class="article-style"></div>
-
-    
-
-
-
-
-
-
-
-
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://twitter.com/intent/tweet?url=https://smritimurali.github.io/publication/jasso/&amp;text=Real%20time%20scheduling%20in%20Contiki" target="_blank" rel="noopener" class="share-btn-twitter">
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://smritimurali.github.io/publication/jasso/&amp;t=Real%20time%20scheduling%20in%20Contiki" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="mailto:?subject=Real%20time%20scheduling%20in%20Contiki&amp;body=https://smritimurali.github.io/publication/jasso/" target="_blank" rel="noopener" class="share-btn-email">
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://smritimurali.github.io/publication/jasso/&amp;title=Real%20time%20scheduling%20in%20Contiki" target="_blank" rel="noopener" class="share-btn-linkedin">
-          <i class="fab fa-linkedin-in"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="whatsapp://send?text=Real%20time%20scheduling%20in%20Contiki%20https://smritimurali.github.io/publication/jasso/" target="_blank" rel="noopener" class="share-btn-whatsapp">
-          <i class="fab fa-whatsapp"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://smritimurali.github.io/publication/jasso/&amp;title=Real%20time%20scheduling%20in%20Contiki" target="_blank" rel="noopener" class="share-btn-weibo">
-          <i class="fab fa-weibo"></i>
-        </a>
-      </li>
-    
-  </ul>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-  
-    
-    
-
-
-
-
-
-  
-
-
-  
-    
-    
-
-
-
-
-
-  
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
   </div>
-</div>
+</section>
 
       
 

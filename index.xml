@@ -21,23 +21,7 @@
     </item>
     
     <item>
-      <title>Jasso</title>
-      <link>https://smritimurali.github.io/publication/jasso/</link>
-      <pubDate>Fri, 31 Jul 2020 21:35:41 -0400</pubDate>
-      <guid>https://smritimurali.github.io/publication/jasso/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discover</title>
-      <link>https://smritimurali.github.io/publication/discover/</link>
-      <pubDate>Fri, 31 Jul 2020 21:35:35 -0400</pubDate>
-      <guid>https://smritimurali.github.io/publication/discover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pie</title>
+      <title>Implementation and Evaluation of Proportional Integral Controller Enhanced (PIE) Algorithm in ns-3</title>
       <link>https://smritimurali.github.io/publication/pie/</link>
       <pubDate>Fri, 31 Jul 2020 21:35:27 -0400</pubDate>
       <guid>https://smritimurali.github.io/publication/pie/</guid>
@@ -57,6 +41,22 @@
       <link>https://smritimurali.github.io/project/my-project-name/</link>
       <pubDate>Fri, 31 Jul 2020 20:28:14 -0400</pubDate>
       <guid>https://smritimurali.github.io/project/my-project-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowdsourcing for disaster relief: A multi-platform model</title>
+      <link>https://smritimurali.github.io/publication/discover/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://smritimurali.github.io/publication/discover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real time scheduling in Contiki</title>
+      <link>https://smritimurali.github.io/publication/jasso/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://smritimurali.github.io/publication/jasso/</guid>
       <description></description>
     </item>
     
