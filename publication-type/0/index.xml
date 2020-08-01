@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Smriti Murali</title>
-    <link>https://smritimurali.github.io/</link>
-      <atom:link href="https://smritimurali.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Smriti Murali</description>
+    <title>0 | Smriti Murali</title>
+    <link>https://smritimurali.github.io/publication-type/0/</link>
+      <atom:link href="https://smritimurali.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jul 2020 21:35:41 -0400</lastBuildDate>
     <image>
       <url>https://smritimurali.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Smriti Murali</title>
-      <link>https://smritimurali.github.io/</link>
+      <title>0</title>
+      <link>https://smritimurali.github.io/publication-type/0/</link>
     </image>
     
     <item>
@@ -33,22 +33,6 @@
       <link>https://smritimurali.github.io/publication/pie/</link>
       <pubDate>Fri, 31 Jul 2020 21:35:27 -0400</pubDate>
       <guid>https://smritimurali.github.io/publication/pie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smriti_is The_best</title>
-      <link>https://smritimurali.github.io/project/smriti_is-the_best/</link>
-      <pubDate>Fri, 31 Jul 2020 20:29:04 -0400</pubDate>
-      <guid>https://smritimurali.github.io/project/smriti_is-the_best/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My Project Name</title>
-      <link>https://smritimurali.github.io/project/my-project-name/</link>
-      <pubDate>Fri, 31 Jul 2020 20:28:14 -0400</pubDate>
-      <guid>https://smritimurali.github.io/project/my-project-name/</guid>
       <description></description>
     </item>
     

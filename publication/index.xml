@@ -5,12 +5,36 @@
     <link>https://smritimurali.github.io/publication/</link>
       <atom:link href="https://smritimurali.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jul 2020 21:35:41 -0400</lastBuildDate>
     <image>
       <url>https://smritimurali.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://smritimurali.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Jasso</title>
+      <link>https://smritimurali.github.io/publication/jasso/</link>
+      <pubDate>Fri, 31 Jul 2020 21:35:41 -0400</pubDate>
+      <guid>https://smritimurali.github.io/publication/jasso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discover</title>
+      <link>https://smritimurali.github.io/publication/discover/</link>
+      <pubDate>Fri, 31 Jul 2020 21:35:35 -0400</pubDate>
+      <guid>https://smritimurali.github.io/publication/discover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pie</title>
+      <link>https://smritimurali.github.io/publication/pie/</link>
+      <pubDate>Fri, 31 Jul 2020 21:35:27 -0400</pubDate>
+      <guid>https://smritimurali.github.io/publication/pie/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
