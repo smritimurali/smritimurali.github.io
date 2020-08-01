@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Pgm</title>
+      <title>Probabilistic graphical models</title>
       <link>https://smritimurali.github.io/project/pgm/</link>
       <pubDate>Sat, 01 Aug 2020 02:08:06 -0400</pubDate>
       <guid>https://smritimurali.github.io/project/pgm/</guid>
@@ -41,30 +41,6 @@
       <link>https://smritimurali.github.io/project/svd/</link>
       <pubDate>Sat, 01 Aug 2020 02:07:47 -0400</pubDate>
       <guid>https://smritimurali.github.io/project/svd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stock</title>
-      <link>https://smritimurali.github.io/project/stock/</link>
-      <pubDate>Sat, 01 Aug 2020 02:07:20 -0400</pubDate>
-      <guid>https://smritimurali.github.io/project/stock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pie</title>
-      <link>https://smritimurali.github.io/project/pie/</link>
-      <pubDate>Sat, 01 Aug 2020 02:07:15 -0400</pubDate>
-      <guid>https://smritimurali.github.io/project/pie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tb</title>
-      <link>https://smritimurali.github.io/project/tb/</link>
-      <pubDate>Sat, 01 Aug 2020 02:06:28 -0400</pubDate>
-      <guid>https://smritimurali.github.io/project/tb/</guid>
       <description></description>
     </item>
     
@@ -81,6 +57,30 @@
       <link>https://smritimurali.github.io/project/my-project-name/</link>
       <pubDate>Fri, 31 Jul 2020 20:28:14 -0400</pubDate>
       <guid>https://smritimurali.github.io/project/my-project-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting touching bacteria from Ziehl-Neelsen stained sputum smear images</title>
+      <link>https://smritimurali.github.io/project/tb/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://smritimurali.github.io/project/tb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation and Evaluation of Proportional Integral Controller Enhanced (PIE) Algorithm in ns-3</title>
+      <link>https://smritimurali.github.io/project/pie/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://smritimurali.github.io/project/pie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inter-Sector Stock Analysis</title>
+      <link>https://smritimurali.github.io/project/stock/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://smritimurali.github.io/project/stock/</guid>
       <description></description>
     </item>
     
