@@ -53,34 +53,10 @@
     </item>
     
     <item>
-      <title>Neural_style_tran</title>
-      <link>https://smritimurali.github.io/project/neural_style_tran/</link>
-      <pubDate>Sat, 01 Aug 2020 02:08:41 -0400</pubDate>
-      <guid>https://smritimurali.github.io/project/neural_style_tran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Knn_image</title>
-      <link>https://smritimurali.github.io/project/knn_image/</link>
-      <pubDate>Sat, 01 Aug 2020 02:08:25 -0400</pubDate>
-      <guid>https://smritimurali.github.io/project/knn_image/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Probabilistic graphical models</title>
       <link>https://smritimurali.github.io/project/pgm/</link>
       <pubDate>Sat, 01 Aug 2020 02:08:06 -0400</pubDate>
       <guid>https://smritimurali.github.io/project/pgm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Svd</title>
-      <link>https://smritimurali.github.io/project/svd/</link>
-      <pubDate>Sat, 01 Aug 2020 02:07:47 -0400</pubDate>
-      <guid>https://smritimurali.github.io/project/svd/</guid>
       <description></description>
     </item>
     
@@ -102,17 +78,17 @@
     
     <item>
       <title>A Crowdsourced Platform for Disaster Relief</title>
-      <link>https://smritimurali.github.io/project/smriti_is-the_best/</link>
+      <link>https://smritimurali.github.io/project/disaster/</link>
       <pubDate>Fri, 31 Jul 2020 20:29:04 -0400</pubDate>
-      <guid>https://smritimurali.github.io/project/smriti_is-the_best/</guid>
+      <guid>https://smritimurali.github.io/project/disaster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User Demography Based Travel Recommender</title>
-      <link>https://smritimurali.github.io/project/my-project-name/</link>
+      <link>https://smritimurali.github.io/project/travel_rec/</link>
       <pubDate>Fri, 31 Jul 2020 20:28:14 -0400</pubDate>
-      <guid>https://smritimurali.github.io/project/my-project-name/</guid>
+      <guid>https://smritimurali.github.io/project/travel_rec/</guid>
       <description></description>
     </item>
     
