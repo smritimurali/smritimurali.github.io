@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shravya K. S | Smriti Murali</title>
+    <link>https://smritimurali.github.io/author/shravya-k.-s/</link>
+      <atom:link href="https://smritimurali.github.io/author/shravya-k.-s/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shravya K. S</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jul 2020 21:35:27 -0400</lastBuildDate>
+    <image>
+      <url>https://smritimurali.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shravya K. S</title>
+      <link>https://smritimurali.github.io/author/shravya-k.-s/</link>
+    </image>
+    
+    <item>
+      <title>Implementation and Evaluation of Proportional Integral Controller Enhanced (PIE) Algorithm in ns-3</title>
+      <link>https://smritimurali.github.io/publication/pie/</link>
+      <pubDate>Fri, 31 Jul 2020 21:35:27 -0400</pubDate>
+      <guid>https://smritimurali.github.io/publication/pie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
