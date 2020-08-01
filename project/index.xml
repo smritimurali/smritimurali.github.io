@@ -5,12 +5,68 @@
     <link>https://smritimurali.github.io/project/</link>
       <atom:link href="https://smritimurali.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jul 2020 20:29:04 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 02:08:41 -0400</lastBuildDate>
     <image>
       <url>https://smritimurali.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://smritimurali.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Neural_style_tran</title>
+      <link>https://smritimurali.github.io/project/neural_style_tran/</link>
+      <pubDate>Sat, 01 Aug 2020 02:08:41 -0400</pubDate>
+      <guid>https://smritimurali.github.io/project/neural_style_tran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knn_image</title>
+      <link>https://smritimurali.github.io/project/knn_image/</link>
+      <pubDate>Sat, 01 Aug 2020 02:08:25 -0400</pubDate>
+      <guid>https://smritimurali.github.io/project/knn_image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pgm</title>
+      <link>https://smritimurali.github.io/project/pgm/</link>
+      <pubDate>Sat, 01 Aug 2020 02:08:06 -0400</pubDate>
+      <guid>https://smritimurali.github.io/project/pgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Svd</title>
+      <link>https://smritimurali.github.io/project/svd/</link>
+      <pubDate>Sat, 01 Aug 2020 02:07:47 -0400</pubDate>
+      <guid>https://smritimurali.github.io/project/svd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stock</title>
+      <link>https://smritimurali.github.io/project/stock/</link>
+      <pubDate>Sat, 01 Aug 2020 02:07:20 -0400</pubDate>
+      <guid>https://smritimurali.github.io/project/stock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pie</title>
+      <link>https://smritimurali.github.io/project/pie/</link>
+      <pubDate>Sat, 01 Aug 2020 02:07:15 -0400</pubDate>
+      <guid>https://smritimurali.github.io/project/pie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tb</title>
+      <link>https://smritimurali.github.io/project/tb/</link>
+      <pubDate>Sat, 01 Aug 2020 02:06:28 -0400</pubDate>
+      <guid>https://smritimurali.github.io/project/tb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Crowdsourced Platform for Disaster Relief</title>
