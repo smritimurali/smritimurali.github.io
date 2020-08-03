@@ -5,20 +5,12 @@
     <link>https://smritimurali.github.io/project/</link>
       <atom:link href="https://smritimurali.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 12:00:14 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 02:08:06 -0400</lastBuildDate>
     <image>
       <url>https://smritimurali.github.io/images/icon_hu35a5f9e77ca267b12308b6519f705bf9_536224_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://smritimurali.github.io/project/</link>
     </image>
-    
-    <item>
-      <title>My Project Name</title>
-      <link>https://smritimurali.github.io/project/my-project-name/</link>
-      <pubDate>Mon, 03 Aug 2020 12:00:14 -0400</pubDate>
-      <guid>https://smritimurali.github.io/project/my-project-name/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Probabilistic graphical models</title>

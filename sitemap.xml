@@ -28,16 +28,6 @@
   </url>
   
   <url>
-    <loc>https://smritimurali.github.io/project/my-project-name/</loc>
-    <lastmod>2020-08-03T12:00:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://smritimurali.github.io/project/</loc>
-    <lastmod>2020-08-03T12:00:14-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://smritimurali.github.io/extras/art5/</loc>
     <lastmod>2020-08-01T02:55:59-04:00</lastmod>
   </url>
@@ -64,6 +54,11 @@
   
   <url>
     <loc>https://smritimurali.github.io/project/pgm/</loc>
+    <lastmod>2020-08-01T02:08:06-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smritimurali.github.io/project/</loc>
     <lastmod>2020-08-01T02:08:06-04:00</lastmod>
   </url>
   
