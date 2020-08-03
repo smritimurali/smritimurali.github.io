@@ -5,36 +5,12 @@
     <link>https://smritimurali.github.io/author/smriti-murali/</link>
       <atom:link href="https://smritimurali.github.io/author/smriti-murali/index.xml" rel="self" type="application/rss+xml" />
     <description>Smriti Murali</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jul 2020 21:35:27 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://smritimurali.github.io/images/icon_hu35a5f9e77ca267b12308b6519f705bf9_536224_512x512_fill_lanczos_center_2.png</url>
       <title>Smriti Murali</title>
       <link>https://smritimurali.github.io/author/smriti-murali/</link>
     </image>
-    
-    <item>
-      <title>Implementation and Evaluation of Proportional Integral Controller Enhanced (PIE) Algorithm in ns-3</title>
-      <link>https://smritimurali.github.io/publication/pie/</link>
-      <pubDate>Fri, 31 Jul 2020 21:35:27 -0400</pubDate>
-      <guid>https://smritimurali.github.io/publication/pie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crowdsourcing for disaster relief: A multi-platform model</title>
-      <link>https://smritimurali.github.io/publication/discover/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://smritimurali.github.io/publication/discover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contiki as RTOS A look at Contiki’s Flash File System – Coffee</title>
-      <link>https://smritimurali.github.io/publication/jasso2/</link>
-      <pubDate>Wed, 02 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://smritimurali.github.io/publication/jasso2/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
